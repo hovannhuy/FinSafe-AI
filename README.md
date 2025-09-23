@@ -101,6 +101,7 @@ This experience transforms “annoying” banking messages into **valuable finan
 ---
 
 ## ⚙️ Operating Principles  
+![z7038385706726_cef76bcc8c1ea870a7da5f2c1f502d2d](https://github.com/user-attachments/assets/d57598fd-1dce-459d-a423-cd00cdbcae76)
 
 1. **Trigger**  
    - Schedule-based (time triggers).  

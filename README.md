@@ -3,7 +3,7 @@
 **A proactive financial assistant on Zalo that personalizes advice, intelligently predicts needs, and seamlessly connects with the Sovico ecosystem.**  
 
 ---
-
+## https://www.hackquest.io/vi/projects/HDBank-Hackathon-Galaxy-of-Innovation-2025-FinSafe-AI
 ## 📑 Table of Contents  
 - [📖 Project Summary](#-project-summary)  
 - [🚩 Problem & Opportunity](#-problem--opportunity)  
